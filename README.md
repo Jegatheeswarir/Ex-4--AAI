@@ -45,7 +45,7 @@ for t in range(len(obs_seq)):
         most_likely.append("rainy")
 ```
 ## Output:
-![Screenshot 2025-04-11 111838](https://github.com/user-attachments/assets/f76cb001-f9a7-4bf5-8378-b2aff00eaf20)
+![Screenshot 2025-04-11 112019](https://github.com/user-attachments/assets/ce29df16-0625-4d48-8bb3-bf19da160d11)
 
 
 ## Result:
